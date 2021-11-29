@@ -19,7 +19,7 @@ const onStart = () => {
     }, 1000)
 
 }
-//
+
 const onStop = () => {
     stop.disabled = true;
     start.disabled = false;
